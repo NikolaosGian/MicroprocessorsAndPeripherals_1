@@ -4,7 +4,7 @@
   <h3 align="center">Aristotle University of Thessaloniki</h3>
   <h4 align="center">School of Electrical & Computer Engineering</h4>
   <p align="center">
-    Contributors: Nikolaos Giannopoulos,Andronikou Dimitrios <??>
+    Contributors: Nikolaos Giannopoulos, Dimitrios Andronikou  <??>
     <br />
     Spring Semester 2021 - 2022
     <br />
