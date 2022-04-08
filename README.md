@@ -30,7 +30,8 @@ The code based on the [main.c](https://github.com/NikolaosGian/MicroprocessorsAn
   
   
 # 2. Problems
-The main problem was the missing indication of the Keil tool as there were problems in the compile that required compiler version 5.The other issue was the white spaces where we were not given any help but had to find it ourselves as the tool did not clarify where there was a problem in the gaps.
+The main problem was the missing indication of the Keil tool as there were problems in the compile that required compiler version 5.The other issue was the white spaces where we were not given any help but had to find it ourselves as the tool did not clarify where there was a problem in the gaps. <br/>
+Another problem was in the first tests where the debugger did not and had the error "Error: Could not load file 'D:\DocData\school\eight\micro\keil\new1\Objects\ex1.axf'. Debugger borted !"
 
 # 3. Testing
 
